@@ -18,5 +18,5 @@ Logic analyzer boot pins:
 
 Pins:
 
-D02 is probably battery voltage sensor
-D16 is the LCD backlight. Can consume ~80-90mA
+ - D02 is probably battery voltage sensor
+ - D16 is the LCD backlight. Can consume ~80-90mA
