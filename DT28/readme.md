@@ -1,3 +1,6 @@
+Logic analyzer boot pins:
+
+```
  0 - SWCLK
  1 - SWDIO
  2 - SCL
@@ -11,6 +14,7 @@
 10 - SO
 11 - RXD
 12 - RST
+```
 
 Pins:
 
